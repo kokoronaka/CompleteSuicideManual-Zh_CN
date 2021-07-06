@@ -96,6 +96,16 @@
 - [6. GAS-POISONING 瓦斯中毒](#6-gas-poisoning瓦斯中毒)
 - [7. ELECTROCUTING 触电](#7-electrocuting-触电)
   - [自杀地图4 自杀村-熊取町](#自杀地图4-自杀村熊取町)
+- [8. DROWNING 投水](#8-drowning-投水)
+- [9. SELF-BURNING 自焚](#9-self-burning-自焚)
+- [10. FREEZING 冻死](#10-freezing-雪山冻死)
+- [11. SPECIALCASES 其它自杀手段和自杀统计](#11-special-cases-其它自杀手段)
+- [编者后记](#后记)
+- 致死量引用文献引用及参考文献(已丢失)
+
+Illustration: Kazunori Sadahiro
+
+Book Design: Seiichi Suzuki Design Office
 
 ## 1. Taking Medicines 药物
 
